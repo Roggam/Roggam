@@ -42,7 +42,7 @@
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/roggam/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aditya%20Vikram%20Singh-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/roggam/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Rogelio%20Gamboa%20Jr-blue?style=flat-square&logo=linkedin"></a>
 <a href="mailto:roggam@yahoo.com.mx"><img alt="Email" src="https://img.shields.io/badge/Email-roggam@yahoo.com.mx-blue?style=flat-square&logo=yahoo"></a>
 </p>
 
