@@ -32,7 +32,6 @@
 <a href="https://github.com/Roggam">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Roggam&theme=buefy&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Roggam&theme=buefy&layout=compact" />
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Roggam&layout=compact)](https://github.com/Roggam/github-readme-stats)
 </a>
 
 <br/>
